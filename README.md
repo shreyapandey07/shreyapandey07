@@ -29,8 +29,7 @@ Welcome to my GitHub profile! I'm Shreya Pandey, a **Full Stack Developer**, **W
 
 ## 📫 How to Reach Me  
 - **LinkedIn:** [Shreya Pandey](https://www.linkedin.com/in/shreya-pandey07)  
-- **Email:** [shreyapandey07@gmail
-- .com](mailto:pandeyshreyaa07@gmail.com)  
+- **Email:** [shreyapandey07@gmail.com](mailto:pandeyshreyaa07@gmail.com)  
 
 ---
 
